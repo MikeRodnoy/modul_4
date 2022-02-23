@@ -201,6 +201,7 @@ h6 {
   letter-spacing: 0.06em;
   display: block;
   margin: 0 auto;
+  padding: 10px 32px;
 
   border: #2196f3;
   border-radius: 4px;
@@ -268,6 +269,7 @@ h6 {
 
 .workers-ul {
   display: flex;
+  margin-bottom: 30px;
 }
 
 .workers-ul .item {
@@ -330,6 +332,7 @@ h6 {
   fill: #afb1b8;
   width: 20px;
   height: 20px;
+  margin-top: 6px;
 }
 
 .workers-main {
@@ -553,11 +556,12 @@ footer {
   background-color: #f5f4fa;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.62;
+  line-height: 1.39;
   text-align: center;
 
   border: #f5f4fa;
   border-radius: 4px;
+  padding: 6px 22px;
 }
 
 .btn-ul .prtfl-btn:hover,
@@ -609,6 +613,7 @@ footer {
   line-height: 2;
   letter-spacing: 0.06em;
   padding-top: 20px;
+  padding-left: 24px;
 }
 
 .prtfl-ul .prtfl-p {
@@ -616,6 +621,7 @@ footer {
   font-size: 16px;
   line-height: 1.87;
   padding-bottom: 20px;
+  padding-left: 24px;
 }
 
 .hero-btn,
